@@ -1,0 +1,7 @@
+C:\Users\ferdi\Documents\HomePractice\Algorithm1\Algorithm1\obj\Debug\Algorithm1.csprojAssemblyReference.cache
+C:\Users\ferdi\Documents\HomePractice\Algorithm1\Algorithm1\obj\Debug\Algorithm1.csproj.CoreCompileInputs.cache
+C:\Users\ferdi\Documents\HomePractice\Algorithm1\Algorithm1\bin\Debug\Algorithm1.exe.config
+C:\Users\ferdi\Documents\HomePractice\Algorithm1\Algorithm1\bin\Debug\Algorithm1.exe
+C:\Users\ferdi\Documents\HomePractice\Algorithm1\Algorithm1\bin\Debug\Algorithm1.pdb
+C:\Users\ferdi\Documents\HomePractice\Algorithm1\Algorithm1\obj\Debug\Algorithm1.exe
+C:\Users\ferdi\Documents\HomePractice\Algorithm1\Algorithm1\obj\Debug\Algorithm1.pdb
